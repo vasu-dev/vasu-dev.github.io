@@ -26,9 +26,13 @@ a:hover {
 html,
 body {
   height: 100%;
+<<<<<<< HEAD
   background-color: #421b08;
   background-image: url(http://tr1.cbsistatic.com/hub/i/2015/07/24/b93e2c45-59ee-448d-b2e9-55b39382def2/artificial-intelligence-brain-ai.jpg);
 
+=======
+  background-color: #265278;
+>>>>>>> 4bf994982d18bf593a3438f117dfe4d173006788
 }
 body {
   color: #fff;
