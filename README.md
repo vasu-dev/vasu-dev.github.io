@@ -1,4 +1,4 @@
-# shuttlesworthNEO.github.io
+# vasu-dev.github.io
 
 A descriptive CV built using HTML and CSS.
 
