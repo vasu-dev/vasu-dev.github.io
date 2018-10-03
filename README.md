@@ -2,4 +2,4 @@
 
 A descriptive CV built using HTML, CSS and jQuery.
 
-Link : https://vasu-dev.github.io
+Profle URL : https://vasu-dev.github.io
